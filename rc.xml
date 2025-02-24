@@ -191,6 +191,9 @@
             </finalactions>
         </action>
     </keybind>
+    <keybind key="A-S-q">
+        <action name="Close" />
+   </keybind>
   </keyboard>
   <mouse>
     <dragThreshold>1</dragThreshold>
